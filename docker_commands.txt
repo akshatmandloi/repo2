@@ -70,6 +70,7 @@ Docker has become a cornerstone of modern DevOps practices, simplifying the deve
 - `docker start <container>`: Start a stopped container.
 - `docker restart <container>`: Restart a container.
 - `docker rm <container>`: Remove a stopped container.
+- 'docker rm <container1> <container2> <container3> : to remove all container at once also you can use first 2 or 3 character of container id to mention
 - `docker create <image>`: Create a new container without starting it.
 - `docker attach <container>`: Attach your terminal to a running container.
 - `docker kill <container>`: Kill a running container.
